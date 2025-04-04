@@ -1,46 +1,49 @@
-# ?? University Information System � BIM308
+﻿# University Information System – BIM308
 
 This project is developed for **BIM308 - Web Server Programming** course.  
 It is a RESTful API built using **Onion Architecture** with ASP.NET Core and Entity Framework Core.
 
-The project was done with .net 9, normally the swagger integration was removed, but I integrated it into the code to make it easy to use. After running the project, please paste
-https://localhost:7263/swagger/index.html into the browser and open the swagger!
+The project was done with .NET 9. Normally Swagger integration was removed, but I added it again for testing purposes.  
+After running the project, please open the link below in your browser to use Swagger UI:
 
-or if you want to use postman, use this link https://localhost:7263/api/
+👉 [https://localhost:7263/swagger/index.html](https://localhost:7263/swagger/index.html)
 
-You can connect to database with both local db and normal ConnectionString. Just run the project for local db.  
-For the other way, just change the ConnectionString in appsetting.json
+Or, if you prefer Postman, use the base URL:
+
+👉 [https://localhost:7263/api/](https://localhost:7263/api/)
+
+You can connect to the database using either **LocalDB** or a custom **ConnectionString**.  
+For custom connection, just modify `appsettings.json`.
 
 ---
 
-## ?? Due Date
+## Due Date
+
 **April 6, 2025**
 
 ---
 
-## ?? Technologies Used
+## Technologies Used
 
 - ASP.NET Core Web API
 - Entity Framework Core
 - MediatR (CQRS Pattern)
-- Repository Design pattern
+- Repository Design Pattern
 - Swagger / Swashbuckle
-- MS Sql - Local DB
-- Onion Architecture
+- MS SQL – LocalDB
+- Onion Architecture:
   - Core
   - Infrastructure
-  - Presentation 
-	
-
+  - Presentation
 
 ---
 
-## ?? Project Structure
+## Project Structure
 
 ```plaintext
 UniversityAPI/
-??? Domain/             # Core entities (Student, Course, Classroom)
-??? Application/        # Commands, Queries, Interfaces
-??? Persistence/        # EF Core, Repositories, Context, Seed Data
-??? WebAPI/             # Controllers, Swagger, Program.cs
-??? README.md
+├── Domain/             # Core entities (Student, Course, Classroom)
+├── Application/        # Commands, Queries, Interfaces
+├── Persistence/        # EF Core, Repositories, Context, Seed Data
+├── WebAPI/             # Controllers, Swagger, Program.cs
+└── README.md

@@ -1,0 +1,1263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD328E2C-4148-49F4-A484-BC142DB91B1E}|Solution Items{DD328E2C-4148-49F4-A484-BC142DB91B1E}|C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{DD328E2C-4148-49F4-A484-BC142DB91B1E}|Solution Items{DD328E2C-4148-49F4-A484-BC142DB91B1E}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32DA73E-9C21-43E9-9D6D-9C0805008B54}|Presentation\\WebAPI\\WebAPI.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\presentation\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E32DA73E-9C21-43E9-9D6D-9C0805008B54}|Presentation\\WebAPI\\WebAPI.csproj|solutionrelative:presentation\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32DA73E-9C21-43E9-9D6D-9C0805008B54}|Presentation\\WebAPI\\WebAPI.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\presentation\\webapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32DA73E-9C21-43E9-9D6D-9C0805008B54}|Presentation\\WebAPI\\WebAPI.csproj|solutionrelative:presentation\\webapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\queries\\studentqueries\\getbyidstudent\\getbyidstudentqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\queries\\studentqueries\\getbyidstudent\\getbyidstudentqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\queries\\studentqueries\\getbyidstudent\\getbyidstudentqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\queries\\studentqueries\\getbyidstudent\\getbyidstudentqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AECF12-17DC-4DBD-A3A3-0AE84F8D83F6}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\infrastructure\\persistence\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AECF12-17DC-4DBD-A3A3-0AE84F8D83F6}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\queries\\studentqueries\\getbyidstudent\\getbyidstudentqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\queries\\studentqueries\\getbyidstudent\\getbyidstudentqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\commands\\studentcommands\\updatestudent\\updatestudentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\commands\\studentcommands\\updatestudent\\updatestudentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\commands\\studentcommands\\updatestudent\\updatestudentcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\commands\\studentcommands\\updatestudent\\updatestudentcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\commands\\studentcommands\\updatestudent\\updatestudentcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\commands\\studentcommands\\updatestudent\\updatestudentcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AECF12-17DC-4DBD-A3A3-0AE84F8D83F6}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\infrastructure\\persistence\\context\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AECF12-17DC-4DBD-A3A3-0AE84F8D83F6}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\context\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AECF12-17DC-4DBD-A3A3-0AE84F8D83F6}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\infrastructure\\persistence\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AECF12-17DC-4DBD-A3A3-0AE84F8D83F6}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5D110C-DDF1-4454-A84C-E70508AC2903}|Core\\Domain\\Domain.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5D110C-DDF1-4454-A84C-E70508AC2903}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\queries\\studentqueries\\getallstudent\\getallstudentqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\queries\\studentqueries\\getallstudent\\getallstudentqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\queries\\studentqueries\\getallstudent\\getallstudentqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\queries\\studentqueries\\getallstudent\\getallstudentqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\commands\\studentcommands\\createstudent\\createstudentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\commands\\studentcommands\\createstudent\\createstudentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\commands\\studentcommands\\createstudent\\createstudentcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\commands\\studentcommands\\createstudent\\createstudentcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AECF12-17DC-4DBD-A3A3-0AE84F8D83F6}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\infrastructure\\persistence\\context\\applicationcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AECF12-17DC-4DBD-A3A3-0AE84F8D83F6}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\context\\applicationcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AECF12-17DC-4DBD-A3A3-0AE84F8D83F6}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\infrastructure\\persistence\\repositories\\studentrepo\\studentreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AECF12-17DC-4DBD-A3A3-0AE84F8D83F6}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\repositories\\studentrepo\\studentreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\repositories\\studentrepositories\\istudentreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\repositories\\studentrepositories\\istudentreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\queries\\coursequeries\\getallcourse\\getallcourseqeryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\queries\\coursequeries\\getallcourse\\getallcourseqeryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\queries\\coursequeries\\getallcourse\\getallcoursequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\queries\\coursequeries\\getallcourse\\getallcoursequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5D110C-DDF1-4454-A84C-E70508AC2903}|Core\\Domain\\Domain.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5D110C-DDF1-4454-A84C-E70508AC2903}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\queries\\coursequeries\\getallcourse\\getallcourseqeryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\queries\\coursequeries\\getallcourse\\getallcourseqeryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5D110C-DDF1-4454-A84C-E70508AC2903}|Core\\Domain\\Domain.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\domain\\entities\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5D110C-DDF1-4454-A84C-E70508AC2903}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\entities\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32DA73E-9C21-43E9-9D6D-9C0805008B54}|Presentation\\WebAPI\\WebAPI.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\presentation\\webapi\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32DA73E-9C21-43E9-9D6D-9C0805008B54}|Presentation\\WebAPI\\WebAPI.csproj|solutionrelative:presentation\\webapi\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32DA73E-9C21-43E9-9D6D-9C0805008B54}|Presentation\\WebAPI\\WebAPI.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\presentation\\webapi\\controllers\\classroomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32DA73E-9C21-43E9-9D6D-9C0805008B54}|Presentation\\WebAPI\\WebAPI.csproj|solutionrelative:presentation\\webapi\\controllers\\classroomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\commands\\classroomcommands\\updateclassroom\\updateclassroomcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\commands\\classroomcommands\\updateclassroom\\updateclassroomcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\commands\\coursecommands\\updatecourse\\updatecoursecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\commands\\coursecommands\\updatecourse\\updatecoursecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\commands\\coursecommands\\createcourse\\createcoursecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\commands\\coursecommands\\createcourse\\createcoursecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\commands\\coursecommands\\createcourse\\createcoursecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\commands\\coursecommands\\createcourse\\createcoursecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\commands\\coursecommands\\createcourse\\createcoursecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\commands\\coursecommands\\createcourse\\createcoursecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\queries\\coursequeries\\getbyidcourse\\getbyidcoursequeryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\queries\\coursequeries\\getbyidcourse\\getbyidcoursequeryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\commands\\coursecommands\\updatecourse\\updatecoursecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\commands\\coursecommands\\updatecourse\\updatecoursecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\commands\\classroomcommands\\updateclassroom\\updateclassroomcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\commands\\classroomcommands\\updateclassroom\\updateclassroomcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\commands\\classroomcommands\\removeclassroom\\removeclassroomcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\commands\\classroomcommands\\removeclassroom\\removeclassroomcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\commands\\classroomcommands\\createclassroom\\createclassroomcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\commands\\classroomcommands\\createclassroom\\createclassroomcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\commands\\classroomcommands\\createclassroom\\createclassroomcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\commands\\classroomcommands\\createclassroom\\createclassroomcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\commands\\coursecommands\\removecourse\\removecoursecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\commands\\coursecommands\\removecourse\\removecoursecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\commands\\studentcommands\\removestudent\\removestudentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\commands\\studentcommands\\removestudent\\removestudentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\queries\\classroomqueries\\getallclassroom\\getallclassroomqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\queries\\classroomqueries\\getallclassroom\\getallclassroomqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\queries\\classroomqueries\\getbyidclassroom\\getbyidclassroomqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\queries\\classroomqueries\\getbyidclassroom\\getbyidclassroomqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\queries\\coursequeries\\getbyidcourse\\getbyidcoursequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\queries\\coursequeries\\getbyidcourse\\getbyidcoursequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\queries\\classroomqueries\\getbyidclassroom\\getbyidclassroomqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\queries\\classroomqueries\\getbyidclassroom\\getbyidclassroomqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\queries\\classroomqueries\\getbyidclassroom\\getbyidclassroomqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\queries\\classroomqueries\\getbyidclassroom\\getbyidclassroomqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\queries\\coursequeries\\getbyidcourse\\getbyidcoursequeryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\queries\\coursequeries\\getbyidcourse\\getbyidcoursequeryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\queries\\classroomqueries\\getallclassroom\\getallclassroomqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\queries\\classroomqueries\\getallclassroom\\getallclassroomqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\queries\\classroomqueries\\getallclassroom\\getallclassroomqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\queries\\classroomqueries\\getallclassroom\\getallclassroomqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\commands\\coursecommands\\removecourse\\removecoursecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\commands\\coursecommands\\removecourse\\removecoursecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\commands\\coursecommands\\removecourse\\removecoursecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\commands\\coursecommands\\removecourse\\removecoursecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\commands\\classroomcommands\\removeclassroom\\removeclassroomcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\commands\\classroomcommands\\removeclassroom\\removeclassroomcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\commands\\classroomcommands\\removeclassroom\\removeclassroomcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\commands\\classroomcommands\\removeclassroom\\removeclassroomcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\commands\\classroomcommands\\createclassroom\\createclassroomcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\commands\\classroomcommands\\createclassroom\\createclassroomcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\commands\\classroomcommands\\updateclassroom\\updateclassroomcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\commands\\classroomcommands\\updateclassroom\\updateclassroomcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5D110C-DDF1-4454-A84C-E70508AC2903}|Core\\Domain\\Domain.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\domain\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5D110C-DDF1-4454-A84C-E70508AC2903}|Core\\Domain\\Domain.csproj|solutionrelative:core\\domain\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\commands\\coursecommands\\updatecourse\\updatecoursecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\commands\\coursecommands\\updatecourse\\updatecoursecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\commands\\studentcommands\\removestudent\\removestudentcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\commands\\studentcommands\\removestudent\\removestudentcommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\commands\\studentcommands\\removestudent\\removestudentcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\commands\\studentcommands\\removestudent\\removestudentcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\features\\mediatr\\commands\\studentcommands\\createstudent\\createstudentcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\features\\mediatr\\commands\\studentcommands\\createstudent\\createstudentcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\repositories\\courserepositories\\icoursereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\repositories\\courserepositories\\icoursereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32DA73E-9C21-43E9-9D6D-9C0805008B54}|Presentation\\WebAPI\\WebAPI.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\presentation\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32DA73E-9C21-43E9-9D6D-9C0805008B54}|Presentation\\WebAPI\\WebAPI.csproj|solutionrelative:presentation\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AECF12-17DC-4DBD-A3A3-0AE84F8D83F6}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\infrastructure\\persistence\\serviceregistiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AECF12-17DC-4DBD-A3A3-0AE84F8D83F6}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\serviceregistiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AECF12-17DC-4DBD-A3A3-0AE84F8D83F6}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\infrastructure\\persistence\\repositories\\studentrepo\\studentwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AECF12-17DC-4DBD-A3A3-0AE84F8D83F6}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\repositories\\studentrepo\\studentwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\serviceregistiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\serviceregistiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AECF12-17DC-4DBD-A3A3-0AE84F8D83F6}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\infrastructure\\persistence\\repositories\\courserepo\\coursewriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AECF12-17DC-4DBD-A3A3-0AE84F8D83F6}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\repositories\\courserepo\\coursewriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AECF12-17DC-4DBD-A3A3-0AE84F8D83F6}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\infrastructure\\persistence\\repositories\\courserepo\\coursereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AECF12-17DC-4DBD-A3A3-0AE84F8D83F6}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\repositories\\courserepo\\coursereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AECF12-17DC-4DBD-A3A3-0AE84F8D83F6}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\infrastructure\\persistence\\repositories\\classroomrepo\\classroomwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AECF12-17DC-4DBD-A3A3-0AE84F8D83F6}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\repositories\\classroomrepo\\classroomwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AECF12-17DC-4DBD-A3A3-0AE84F8D83F6}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\infrastructure\\persistence\\repositories\\classroomrepo\\classroomreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AECF12-17DC-4DBD-A3A3-0AE84F8D83F6}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\repositories\\classroomrepo\\classroomreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AECF12-17DC-4DBD-A3A3-0AE84F8D83F6}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\infrastructure\\persistence\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AECF12-17DC-4DBD-A3A3-0AE84F8D83F6}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\repositories\\classroomrepositories\\iclassroomwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\repositories\\classroomrepositories\\iclassroomwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\repositories\\classroomrepositories\\iclassroomreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\repositories\\classroomrepositories\\iclassroomreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\repositories\\courserepositories\\icoursewriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\repositories\\courserepositories\\icoursewriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\repositories\\studentrepositories\\istudentwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\repositories\\studentrepositories\\istudentwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\core\\application\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DF6677-31F5-4CB3-B799-1763BE001DB8}|Core\\Application\\Application.csproj|solutionrelative:core\\application\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AECF12-17DC-4DBD-A3A3-0AE84F8D83F6}|Infrastructure\\Persistence\\Persistence.csproj|c:\\users\\ozan\\desktop\\aspnetprojects\\universityinformationsystem\\infrastructure\\persistence\\migrations\\20250404143957_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AECF12-17DC-4DBD-A3A3-0AE84F8D83F6}|Infrastructure\\Persistence\\Persistence.csproj|solutionrelative:infrastructure\\persistence\\migrations\\20250404143957_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Presentation\\WebAPI\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\WebAPI\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Presentation\\WebAPI\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Presentation\\WebAPI\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:21:54.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetByIdStudentQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\StudentQueries\\GetByIdStudent\\GetByIdStudentQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Queries\\StudentQueries\\GetByIdStudent\\GetByIdStudentQueryRequest.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\StudentQueries\\GetByIdStudent\\GetByIdStudentQueryRequest.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Queries\\StudentQueries\\GetByIdStudent\\GetByIdStudentQueryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:17:04.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Infrastructure\\Persistence\\Repositories\\ReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\ReadRepository.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Infrastructure\\Persistence\\Repositories\\ReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\ReadRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:36:21.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateStudentCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\UpdateStudent\\UpdateStudentCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\UpdateStudent\\UpdateStudentCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\UpdateStudent\\UpdateStudentCommandHandler.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\UpdateStudent\\UpdateStudentCommandHandler.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwBwAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:04:16.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateStudentCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\UpdateStudent\\UpdateStudentCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\UpdateStudent\\UpdateStudentCommandRequest.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\UpdateStudent\\UpdateStudentCommandRequest.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\UpdateStudent\\UpdateStudentCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:02:36.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-04-03T21:21:57.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Presentation\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Presentation\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "Presentation\\WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T21:18:20.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetByIdStudentQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\StudentQueries\\GetByIdStudent\\GetByIdStudentQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Queries\\StudentQueries\\GetByIdStudent\\GetByIdStudentQueryResponse.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\StudentQueries\\GetByIdStudent\\GetByIdStudentQueryResponse.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Queries\\StudentQueries\\GetByIdStudent\\GetByIdStudentQueryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:16:20.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetByIdStudentQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\StudentQueries\\GetByIdStudent\\GetByIdStudentQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Queries\\StudentQueries\\GetByIdStudent\\GetByIdStudentQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\StudentQueries\\GetByIdStudent\\GetByIdStudentQueryHandler.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Queries\\StudentQueries\\GetByIdStudent\\GetByIdStudentQueryHandler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:17:41.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateStudentCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\UpdateStudent\\UpdateStudentCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\UpdateStudent\\UpdateStudentCommandResponse.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\UpdateStudent\\UpdateStudentCommandResponse.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\UpdateStudent\\UpdateStudentCommandResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:01:57.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Infrastructure\\Persistence\\Repositories\\WriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\WriteRepository.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Infrastructure\\Persistence\\Repositories\\WriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\WriteRepository.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAIA8wDgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:02:54.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Infrastructure\\Persistence\\Context\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Context\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Infrastructure\\Persistence\\Context\\ApplicationContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Context\\ApplicationContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAMwB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:22:31.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Domain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Domain\\Entities\\Student.cs",
+              "RelativeToolTip": "Core\\Domain\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:05:51.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetAllStudentQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\StudentQueries\\GetAllStudent\\GetAllStudentQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Queries\\StudentQueries\\GetAllStudent\\GetAllStudentQueryRequest.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\StudentQueries\\GetAllStudent\\GetAllStudentQueryRequest.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Queries\\StudentQueries\\GetAllStudent\\GetAllStudentQueryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:08:52.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetAllStudentQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\StudentQueries\\GetAllStudent\\GetAllStudentQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Queries\\StudentQueries\\GetAllStudent\\GetAllStudentQueryResponse.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\StudentQueries\\GetAllStudent\\GetAllStudentQueryResponse.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Queries\\StudentQueries\\GetAllStudent\\GetAllStudentQueryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:08:05.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateStudentCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\CreateStudent\\CreateStudentCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\CreateStudent\\CreateStudentCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\CreateStudent\\CreateStudentCommandHandler.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\CreateStudent\\CreateStudentCommandHandler.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:54:37.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StudentReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Infrastructure\\Persistence\\Repositories\\StudentRepo\\StudentReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\StudentRepo\\StudentReadRepository.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Infrastructure\\Persistence\\Repositories\\StudentRepo\\StudentReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\StudentRepo\\StudentReadRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:10:12.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateStudentCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\CreateStudent\\CreateStudentCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\CreateStudent\\CreateStudentCommandRequest.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\CreateStudent\\CreateStudentCommandRequest.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\CreateStudent\\CreateStudentCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:53:18.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20250404143957_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Infrastructure\\Persistence\\Migrations\\20250404143957_mig1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Migrations\\20250404143957_mig1.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Infrastructure\\Persistence\\Migrations\\20250404143957_mig1.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Migrations\\20250404143957_mig1.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T14:39:57.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationContextSeed.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Infrastructure\\Persistence\\Context\\ApplicationContextSeed.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Context\\ApplicationContextSeed.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Infrastructure\\Persistence\\Context\\ApplicationContextSeed.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Context\\ApplicationContextSeed.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAuwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:53:48.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IStudentReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Repositories\\StudentRepositories\\IStudentReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Repositories\\StudentRepositories\\IStudentReadRepository.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Repositories\\StudentRepositories\\IStudentReadRepository.cs",
+              "RelativeToolTip": "Core\\Application\\Repositories\\StudentRepositories\\IStudentReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:33:49.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Domain\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Domain\\Entities\\Course.cs",
+              "RelativeToolTip": "Core\\Domain\\Entities\\Course.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:08:00.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetAllCourseQeryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\CourseQueries\\GetAllCourse\\GetAllCourseQeryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Queries\\CourseQueries\\GetAllCourse\\GetAllCourseQeryResponse.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\CourseQueries\\GetAllCourse\\GetAllCourseQeryResponse.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Queries\\CourseQueries\\GetAllCourse\\GetAllCourseQeryResponse.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAMwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:44:48.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetAllCourseQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\CourseQueries\\GetAllCourse\\GetAllCourseQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Queries\\CourseQueries\\GetAllCourse\\GetAllCourseQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\CourseQueries\\GetAllCourse\\GetAllCourseQueryHandler.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Queries\\CourseQueries\\GetAllCourse\\GetAllCourseQueryHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:46:51.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetAllCourseQeryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\CourseQueries\\GetAllCourse\\GetAllCourseQeryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Queries\\CourseQueries\\GetAllCourse\\GetAllCourseQeryRequest.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\CourseQueries\\GetAllCourse\\GetAllCourseQeryRequest.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Queries\\CourseQueries\\GetAllCourse\\GetAllCourseQeryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:46:10.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Classroom.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Domain\\Entities\\Classroom.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\Entities\\Classroom.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Domain\\Entities\\Classroom.cs",
+              "RelativeToolTip": "Core\\Domain\\Entities\\Classroom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:09:58.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Presentation\\WebAPI\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Presentation\\WebAPI\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Presentation\\WebAPI\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Presentation\\WebAPI\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAArwC0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T17:54:28.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ClassroomsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Presentation\\WebAPI\\Controllers\\ClassroomsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\WebAPI\\Controllers\\ClassroomsController.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Presentation\\WebAPI\\Controllers\\ClassroomsController.cs",
+              "RelativeToolTip": "Presentation\\WebAPI\\Controllers\\ClassroomsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T17:54:40.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateClassroomCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\UpdateClassroom\\UpdateClassroomCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\UpdateClassroom\\UpdateClassroomCommandRequest.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\UpdateClassroom\\UpdateClassroomCommandRequest.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\UpdateClassroom\\UpdateClassroomCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:11:11.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UpdateCourseCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\UpdateCourse\\UpdateCourseCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\UpdateCourse\\UpdateCourseCommandRequest.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\UpdateCourse\\UpdateCourseCommandRequest.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\UpdateCourse\\UpdateCourseCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:25:22.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateCourseCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\CreateCourse\\CreateCourseCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\CreateCourse\\CreateCourseCommandResponse.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\CreateCourse\\CreateCourseCommandResponse.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\CreateCourse\\CreateCourseCommandResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:18:44.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreateCourseCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\CreateCourse\\CreateCourseCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\CreateCourse\\CreateCourseCommandRequest.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\CreateCourse\\CreateCourseCommandRequest.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\CreateCourse\\CreateCourseCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:19:19.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateCourseCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\CreateCourse\\CreateCourseCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\CreateCourse\\CreateCourseCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\CreateCourse\\CreateCourseCommandHandler.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\CreateCourse\\CreateCourseCommandHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:22:27.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GetByIdCourseQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\CourseQueries\\GetByIdCourse\\GetByIdCourseQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Queries\\CourseQueries\\GetByIdCourse\\GetByIdCourseQueryRequest.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\CourseQueries\\GetByIdCourse\\GetByIdCourseQueryRequest.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Queries\\CourseQueries\\GetByIdCourse\\GetByIdCourseQueryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:41:21.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UpdateCourseCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\UpdateCourse\\UpdateCourseCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\UpdateCourse\\UpdateCourseCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\UpdateCourse\\UpdateCourseCommandHandler.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\UpdateCourse\\UpdateCourseCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:26:56.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RemoveCourseCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\RemoveCourse\\RemoveCourseCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\RemoveCourse\\RemoveCourseCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\RemoveCourse\\RemoveCourseCommandHandler.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\RemoveCourse\\RemoveCourseCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:32:58.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UpdateClassroomCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\UpdateClassroom\\UpdateClassroomCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\UpdateClassroom\\UpdateClassroomCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\UpdateClassroom\\UpdateClassroomCommandHandler.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\UpdateClassroom\\UpdateClassroomCommandHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:11:36.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CreateClassroomCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\CreateClassroom\\CreateClassroomCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\CreateClassroom\\CreateClassroomCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\CreateClassroom\\CreateClassroomCommandHandler.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\CreateClassroom\\CreateClassroomCommandHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:07:31.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RemoveClassroomCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\RemoveClassroom\\RemoveClassroomCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\RemoveClassroom\\RemoveClassroomCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\RemoveClassroom\\RemoveClassroomCommandHandler.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\RemoveClassroom\\RemoveClassroomCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:16:27.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CreateClassroomCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\CreateClassroom\\CreateClassroomCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\CreateClassroom\\CreateClassroomCommandRequest.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\CreateClassroom\\CreateClassroomCommandRequest.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\CreateClassroom\\CreateClassroomCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:06:23.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RemoveStudentCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\RemoveStudent\\RemoveStudentCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\RemoveStudent\\RemoveStudentCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\RemoveStudent\\RemoveStudentCommandHandler.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\RemoveStudent\\RemoveStudentCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:59:30.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GetAllClassroomQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\ClassroomQueries\\GetAllClassroom\\GetAllClassroomQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Queries\\ClassroomQueries\\GetAllClassroom\\GetAllClassroomQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\ClassroomQueries\\GetAllClassroom\\GetAllClassroomQueryHandler.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Queries\\ClassroomQueries\\GetAllClassroom\\GetAllClassroomQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:18:25.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GetByIdClassroomQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\ClassroomQueries\\GetByIdClassroom\\GetByIdClassroomQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Queries\\ClassroomQueries\\GetByIdClassroom\\GetByIdClassroomQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\ClassroomQueries\\GetByIdClassroom\\GetByIdClassroomQueryHandler.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Queries\\ClassroomQueries\\GetByIdClassroom\\GetByIdClassroomQueryHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:23:34.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GetByIdCourseQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\CourseQueries\\GetByIdCourse\\GetByIdCourseQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Queries\\CourseQueries\\GetByIdCourse\\GetByIdCourseQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\CourseQueries\\GetByIdCourse\\GetByIdCourseQueryHandler.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Queries\\CourseQueries\\GetByIdCourse\\GetByIdCourseQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:41:52.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GetByIdClassroomQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\ClassroomQueries\\GetByIdClassroom\\GetByIdClassroomQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Queries\\ClassroomQueries\\GetByIdClassroom\\GetByIdClassroomQueryRequest.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\ClassroomQueries\\GetByIdClassroom\\GetByIdClassroomQueryRequest.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Queries\\ClassroomQueries\\GetByIdClassroom\\GetByIdClassroomQueryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:22:56.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GetByIdClassroomQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\ClassroomQueries\\GetByIdClassroom\\GetByIdClassroomQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Queries\\ClassroomQueries\\GetByIdClassroom\\GetByIdClassroomQueryResponse.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\ClassroomQueries\\GetByIdClassroom\\GetByIdClassroomQueryResponse.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Queries\\ClassroomQueries\\GetByIdClassroom\\GetByIdClassroomQueryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:21:44.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GetByIdCourseQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\CourseQueries\\GetByIdCourse\\GetByIdCourseQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Queries\\CourseQueries\\GetByIdCourse\\GetByIdCourseQueryResponse.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\CourseQueries\\GetByIdCourse\\GetByIdCourseQueryResponse.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Queries\\CourseQueries\\GetByIdCourse\\GetByIdCourseQueryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:40:26.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GetAllClassroomQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\ClassroomQueries\\GetAllClassroom\\GetAllClassroomQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Queries\\ClassroomQueries\\GetAllClassroom\\GetAllClassroomQueryRequest.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\ClassroomQueries\\GetAllClassroom\\GetAllClassroomQueryRequest.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Queries\\ClassroomQueries\\GetAllClassroom\\GetAllClassroomQueryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:18:16.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GetAllClassroomQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\ClassroomQueries\\GetAllClassroom\\GetAllClassroomQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Queries\\ClassroomQueries\\GetAllClassroom\\GetAllClassroomQueryResponse.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Queries\\ClassroomQueries\\GetAllClassroom\\GetAllClassroomQueryResponse.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Queries\\ClassroomQueries\\GetAllClassroom\\GetAllClassroomQueryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:17:59.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RemoveCourseCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\RemoveCourse\\RemoveCourseCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\RemoveCourse\\RemoveCourseCommandResponse.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\RemoveCourse\\RemoveCourseCommandResponse.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\RemoveCourse\\RemoveCourseCommandResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:31:18.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RemoveCourseCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\RemoveCourse\\RemoveCourseCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\RemoveCourse\\RemoveCourseCommandRequest.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\RemoveCourse\\RemoveCourseCommandRequest.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\RemoveCourse\\RemoveCourseCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:32:19.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RemoveClassroomCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\RemoveClassroom\\RemoveClassroomCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\RemoveClassroom\\RemoveClassroomCommandRequest.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\RemoveClassroom\\RemoveClassroomCommandRequest.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\RemoveClassroom\\RemoveClassroomCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:16:38.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RemoveClassroomCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\RemoveClassroom\\RemoveClassroomCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\RemoveClassroom\\RemoveClassroomCommandResponse.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\RemoveClassroom\\RemoveClassroomCommandResponse.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\RemoveClassroom\\RemoveClassroomCommandResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:15:59.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CreateClassroomCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\CreateClassroom\\CreateClassroomCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\CreateClassroom\\CreateClassroomCommandResponse.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\CreateClassroom\\CreateClassroomCommandResponse.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\CreateClassroom\\CreateClassroomCommandResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:05:45.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UpdateClassroomCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\UpdateClassroom\\UpdateClassroomCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\UpdateClassroom\\UpdateClassroomCommandResponse.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\UpdateClassroom\\UpdateClassroomCommandResponse.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Commands\\ClassroomCommands\\UpdateClassroom\\UpdateClassroomCommandResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:11:28.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Domain\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Domain\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\Domain\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:05:12.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UpdateCourseCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\UpdateCourse\\UpdateCourseCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\UpdateCourse\\UpdateCourseCommandResponse.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\UpdateCourse\\UpdateCourseCommandResponse.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Commands\\CourseCommands\\UpdateCourse\\UpdateCourseCommandResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:24:15.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "RemoveStudentCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\RemoveStudent\\RemoveStudentCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\RemoveStudent\\RemoveStudentCommandResponse.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\RemoveStudent\\RemoveStudentCommandResponse.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\RemoveStudent\\RemoveStudentCommandResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:58:09.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RemoveStudentCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\RemoveStudent\\RemoveStudentCommandRequest.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\RemoveStudent\\RemoveStudentCommandRequest.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\RemoveStudent\\RemoveStudentCommandRequest.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\RemoveStudent\\RemoveStudentCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:58:40.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CreateStudentCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\CreateStudent\\CreateStudentCommandResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\CreateStudent\\CreateStudentCommandResponse.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\CreateStudent\\CreateStudentCommandResponse.cs",
+              "RelativeToolTip": "Core\\Application\\Features\\Mediatr\\Commands\\StudentCommands\\CreateStudent\\CreateStudentCommandResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:52:44.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ICourseReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Repositories\\CourseRepositories\\ICourseReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Repositories\\CourseRepositories\\ICourseReadRepository.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Repositories\\CourseRepositories\\ICourseReadRepository.cs",
+              "RelativeToolTip": "Core\\Application\\Repositories\\CourseRepositories\\ICourseReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:32:37.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Presentation\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Presentation\\WebAPI\\Program.cs",
+              "RelativeToolTip": "Presentation\\WebAPI\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:28:54.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ServiceRegistiration.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Infrastructure\\Persistence\\ServiceRegistiration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\ServiceRegistiration.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Infrastructure\\Persistence\\ServiceRegistiration.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\ServiceRegistiration.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAEwBYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:13:45.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "StudentWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Infrastructure\\Persistence\\Repositories\\StudentRepo\\StudentWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\StudentRepo\\StudentWriteRepository.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Infrastructure\\Persistence\\Repositories\\StudentRepo\\StudentWriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\StudentRepo\\StudentWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:11:01.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ServiceRegistiration.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\ServiceRegistiration.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\ServiceRegistiration.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\ServiceRegistiration.cs",
+              "RelativeToolTip": "Core\\Application\\ServiceRegistiration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:26:17.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CourseWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Infrastructure\\Persistence\\Repositories\\CourseRepo\\CourseWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\CourseRepo\\CourseWriteRepository.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Infrastructure\\Persistence\\Repositories\\CourseRepo\\CourseWriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\CourseRepo\\CourseWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:09:24.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "CourseReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Infrastructure\\Persistence\\Repositories\\CourseRepo\\CourseReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\CourseRepo\\CourseReadRepository.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Infrastructure\\Persistence\\Repositories\\CourseRepo\\CourseReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\CourseRepo\\CourseReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:08:13.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ClassroomWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Infrastructure\\Persistence\\Repositories\\ClassroomRepo\\ClassroomWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\ClassroomRepo\\ClassroomWriteRepository.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Infrastructure\\Persistence\\Repositories\\ClassroomRepo\\ClassroomWriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\ClassroomRepo\\ClassroomWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:07:25.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ClassroomReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Infrastructure\\Persistence\\Repositories\\ClassroomRepo\\ClassroomReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\ClassroomRepo\\ClassroomReadRepository.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Infrastructure\\Persistence\\Repositories\\ClassroomRepo\\ClassroomReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\ClassroomRepo\\ClassroomReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:05:52.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Infrastructure\\Persistence\\Configuration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Infrastructure\\Persistence\\Configuration.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:12:28.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "IClassroomWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Repositories\\ClassroomRepositories\\IClassroomWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Repositories\\ClassroomRepositories\\IClassroomWriteRepository.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Repositories\\ClassroomRepositories\\IClassroomWriteRepository.cs",
+              "RelativeToolTip": "Core\\Application\\Repositories\\ClassroomRepositories\\IClassroomWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:31:59.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Repositories\\IWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Repositories\\IWriteRepository.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Repositories\\IWriteRepository.cs",
+              "RelativeToolTip": "Core\\Application\\Repositories\\IWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:28:39.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ICourseWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Repositories\\CourseRepositories\\ICourseWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Repositories\\CourseRepositories\\ICourseWriteRepository.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Repositories\\CourseRepositories\\ICourseWriteRepository.cs",
+              "RelativeToolTip": "Core\\Application\\Repositories\\CourseRepositories\\ICourseWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:33:13.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IStudentWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Repositories\\StudentRepositories\\IStudentWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Repositories\\StudentRepositories\\IStudentWriteRepository.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Repositories\\StudentRepositories\\IStudentWriteRepository.cs",
+              "RelativeToolTip": "Core\\Application\\Repositories\\StudentRepositories\\IStudentWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:34:40.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IClassroomReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Repositories\\ClassroomRepositories\\IClassroomReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Repositories\\ClassroomRepositories\\IClassroomReadRepository.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Repositories\\ClassroomRepositories\\IClassroomReadRepository.cs",
+              "RelativeToolTip": "Core\\Application\\Repositories\\ClassroomRepositories\\IClassroomReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:31:19.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "IReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Repositories\\IReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Repositories\\IReadRepository.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Repositories\\IReadRepository.cs",
+              "RelativeToolTip": "Core\\Application\\Repositories\\IReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:23:39.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\UniversityInformationSystem\\Core\\Application\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Core\\Application\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:20:49.018Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
